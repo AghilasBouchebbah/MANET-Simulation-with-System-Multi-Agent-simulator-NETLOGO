@@ -21,9 +21,11 @@ Keywords : NETLOGO, modeling and simulating, mobile ad hoc networks (MANET), IEE
 <br/>
 
 <h1> Exemple de simulation  </h1>
+
 <br/>
 
 <h2> ommunication sans le protocole d'accés CSMA/CA </h2>
+
 <br/>
 
 ![envoi 2](https://user-images.githubusercontent.com/58481599/97761356-cba05180-1b05-11eb-9c55-88a286a5f85a.PNG)
@@ -38,7 +40,7 @@ Keywords : NETLOGO, modeling and simulating, mobile ad hoc networks (MANET), IEE
 
 **Les ondes**
 
-</br/>
+<br/>
 
 ![onde](https://user-images.githubusercontent.com/58481599/97761441-01453a80-1b06-11eb-8679-f180c93ff399.png)
 
