@@ -28,6 +28,8 @@ Keywords : NETLOGO, modeling and simulating, mobile ad hoc networks (MANET), IEE
 
 ![envoi 2](https://user-images.githubusercontent.com/58481599/97761356-cba05180-1b05-11eb-9c55-88a286a5f85a.PNG)
 
+![envoie 3-rep](https://user-images.githubusercontent.com/58481599/97762520-15d70200-1b09-11eb-89ea0e3e98df7461.PNG)
+
 ![onde](https://user-images.githubusercontent.com/58481599/97761441-01453a80-1b06-11eb-8679-f180c93ff399.png)
 
 <br/>
