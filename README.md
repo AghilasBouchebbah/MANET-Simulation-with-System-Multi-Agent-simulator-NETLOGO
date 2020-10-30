@@ -39,6 +39,7 @@ Keywords : NETLOGO, modeling and simulating, mobile ad hoc networks (MANET), IEE
 **Les ondes**
 
 </br/>
+
 ![onde](https://user-images.githubusercontent.com/58481599/97761441-01453a80-1b06-11eb-8679-f180c93ff399.png)
 
 <br/>
@@ -60,7 +61,7 @@ Keywords : NETLOGO, modeling and simulating, mobile ad hoc networks (MANET), IEE
 
 <br/>
 
-<h3> Les paramètres d’entrés : <h3/>
+<h3> Les paramètres d’entrés : </h3>
   
  <br/>
   
