@@ -8,6 +8,7 @@ Utilisation d'un simulateur multi agents 'NETLOGO' pour modéliser et simuler le
 Mots-clés : NETLOGO, simulation et modélisation, réseau mobile ad hoc (MANET), IEEE 802.11, Transmission radio, CSMA/CA, mobilité, routage.
 
 
+/n
 Abstract
 
 use of a 'NETLOGO' multi-agent simulator to model and simulate the highest aspects of mobile ad hoc networks (MANETs). I designed and implemented a MANET network model which makes it possible to simulate in particular the main protocols and aspects related to the two PHY and MAC layers of the IEEE 802.11 standard used for Ad hoc networks (radio transmission and channel access control CSMA / CA DCF ), the mobility of nodes, as well as the short-path routing mechanism that ensures the routing of packets in the network.
