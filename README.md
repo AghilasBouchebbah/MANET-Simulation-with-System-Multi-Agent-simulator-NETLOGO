@@ -37,6 +37,7 @@ Keywords : NETLOGO, modeling and simulating, mobile ad hoc networks (MANET), IEE
 <br/> 
 
 **Les ondes**
+
 </br/>
 ![onde](https://user-images.githubusercontent.com/58481599/97761441-01453a80-1b06-11eb-8679-f180c93ff399.png)
 
@@ -56,37 +57,39 @@ Keywords : NETLOGO, modeling and simulating, mobile ad hoc networks (MANET), IEE
 <br/> 
 
 <br/>
+
 <br/>
 
 <h3> Les paramètres d’entrés : <h3/>
   
-  <br/>
+ <br/>
   
- **Nombre_noeuds** : un slider qui permet à l’utilisateur d’entrer le nombre de noeuds de ce réseaux.
+**Nombre_noeuds** : un slider qui permet à l’utilisateur d’entrer le nombre de noeuds de ce réseaux.
  
  <br/>
  
- **Rayon_transmission** : l’utilisateur indique la valeur du rayon de transmission, le cercle de la portée prendra comme taille cette valeur, et des liens seront créés      
+**Rayon_transmission** : l’utilisateur indique la valeur du rayon de transmission, le cercle de la portée prendra comme taille cette valeur, et des liens seront créés      
  avec les noeuds voisin qui se trouve à l’intérieur de cette étendu.
  
  <br/>
  
- **Visualise_portée** : activer ou désactiver la visualisation du cercle de la portée des noeuds, dans ce cas de figure, il est désactivé.
+**Visualise_portée** : activer ou désactiver la visualisation du cercle de la portée des noeuds, dans ce cas de figure, il est désactivé.
  
  <br/>
  
- **CWmin et CWmax** : l’utilisateur entre la valeur de l’intervalle de la fenêtre de contention.
+**CWmin et CWmax** : l’utilisateur entre la valeur de l’intervalle de la fenêtre de contention.
  
  <br/>
  
- **Nombre_tentative** : l’utilisateur indique la valeur de nombre de tentative de retransmission d’un paquet avant qu’il soit détruit.
+**Nombre_tentative** : l’utilisateur indique la valeur de nombre de tentative de retransmission d’un paquet avant qu’il soit détruit.
  
  <br/>
  
- **PER**: le taux d'erreur de paquet (PER) est le nombre de paquets de données incorrectement reçus divisé par le nombre total de paquets reçus. ce taux inclue BER (bits    error rate), bruit thermique, Multipath et Fading.
+**PER**: le taux d'erreur de paquet (PER) est le nombre de paquets de données incorrectement reçus divisé par le nombre total de paquets reçus. ce taux inclue BER (bits    error rate), bruit thermique, Multipath et Fading.
 Pour calculer la probabilité d'erreur, on utilise les entrées Base et PER pour indiquer le taux de probalité d’erreur. Par exemple, pour avoir un taux = 0,035, il faut définir le PER sur 3,5 et la base à 1.0E-2 = 0.01.
 
 <br/>
+
 <br/>
 
 <h3>Les boutons :</h3>
